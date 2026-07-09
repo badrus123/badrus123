@@ -36,7 +36,7 @@ Manual test management, deterministic runs, and optional autonomous AI — your 
 
 | Project | What it is | Stack |
 |---------|-----------|:-----:|
-| [**jira-commands**](https://github.com/mulhamna/jira-commands) | Jira toolkit for terminals, coding assistants, and bots | Rust |
+| [**jira-commands**](https://github.com/badrus123/jira-commands) | Jira toolkit for terminals, coding assistants, and bots | Rust |
 | [**cora**](https://github.com/keton-id/cora) | Zero-knowledge secret injection for AI agents | Zig |
 | [**rdb**](https://github.com/suiflex/rdb) | Database editor built in Rust | Rust |
 | [**vod**](https://github.com/keton-id/vod) | Virtual office dashboard — preview multiple Google Meet at once | TypeScript |
@@ -61,19 +61,18 @@ Shipped under [@suiflex](https://github.com/suiflex) and [@keton-id](https://git
 
 ---
 
-## GitHub
+## Activity
 
-<p align="center">
-  <a href="https://github.com/mulhamna/jira-commands"><img src="https://img.shields.io/github/stars/mulhamna/jira-commands?style=for-the-badge&logo=github&label=jira-commands&color=ef4444&labelColor=1c1917" alt="jira-commands stars" /></a>
-  <a href="https://github.com/keton-id/cora"><img src="https://img.shields.io/github/stars/keton-id/cora?style=for-the-badge&logo=github&label=cora&color=ef4444&labelColor=1c1917" alt="cora stars" /></a>
-  <a href="https://github.com/suiflex/suitest"><img src="https://img.shields.io/github/stars/suiflex/suitest?style=for-the-badge&logo=github&label=suitest&color=ef4444&labelColor=1c1917" alt="suitest stars" /></a>
-  <a href="https://github.com/keton-id/vod"><img src="https://img.shields.io/github/stars/keton-id/vod?style=for-the-badge&logo=github&label=vod&color=ef4444&labelColor=1c1917" alt="vod stars" /></a>
+![badrus123 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badrus123&bg_color=0d1117&color=c9d1d9&line=40c463&point=40c463&area=true&hide_border=true)
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badrus123&theme=github_dark" alt="badrus123 GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badrus123&theme=github_dark" alt="Top languages by contribution" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badrus123&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Contribution streak" />
-</p>
-
+![badrus123 GitHub streak](https://streak-stats.demolab.com?user=badrus123&theme=github-dark-blue&hide_border=true&ring=40c463&fire=40c463&currStreakLabel=40c463)
 ---
 
 ## 🤝 Contribute
@@ -81,7 +80,7 @@ Shipped under [@suiflex](https://github.com/suiflex) and [@keton-id](https://git
 Every project above is open source and takes PRs. Good places to start:
 
 - **[Suitest](https://github.com/suiflex/suitest)** — Python + React + MCP. Roadmap-driven: every issue maps to one acceptance criterion. Read [`CLAUDE.md`](https://github.com/suiflex/suitest/blob/main/CLAUDE.md), pick an open item, ship one small PR. `npx @suiflex/suitest onboard` boots the whole stack locally in one command.
-- **[jira-commands](https://github.com/mulhamna/jira-commands)** — Rust CLI, small and focused. Great first Rust contribution.
+- **[jira-commands](https://github.com/badrus123/jira-commands)** — Rust CLI, small and focused. Great first Rust contribution.
 
 Open an issue (or ping me) before a large change — I review fast and merge often.
 
