@@ -63,16 +63,17 @@ Shipped under [@suiflex](https://github.com/suiflex) and [@keton-id](https://git
 
 ## Activity
 
-![badrus123 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badrus123&bg_color=0d1117&color=c9d1d9&line=40c463&point=40c463&area=true&hide_border=true)
+[![badrus123 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badrus123&bg_color=0d1117&color=c9d1d9&line=40c463&point=40c463&area=true&hide_border=true)](https://github.com/badrus123)
 
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=badrus123&theme=github_dark" alt="badrus123 GitHub stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badrus123&theme=github_dark" alt="Top languages by contribution" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badrus123&theme=github_dark&hide_border=true&show_icons=true&cache_seconds=1800" alt="badrus123 GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrus123&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top languages" height="170" />
 </p>
 
-![badrus123 GitHub streak](https://streak-stats.demolab.com?user=badrus123&theme=github-dark-blue&hide_border=true&ring=40c463&fire=40c463&currStreakLabel=40c463)
+![badrus123 GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=badrus123&theme=github-dark-blue&hide_border=true&ring=40c463&fire=40c463&currStreakLabel=40c463)
+
 ---
 
 ## 🤝 Contribute
